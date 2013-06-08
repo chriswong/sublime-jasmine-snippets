@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-
 xdescribe('$1', function () {
 	$2
 });]]></content>

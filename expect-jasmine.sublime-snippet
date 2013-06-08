@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[expect('$1').${2:to}$3($4);
+	<content><![CDATA[expect($1).${2:to}$3($4);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>expect</tabTrigger>

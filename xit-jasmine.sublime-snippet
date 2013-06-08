@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-
 xit('$1', function () {
 	$2
 });]]></content>
